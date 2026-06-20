@@ -19,15 +19,6 @@ Hi, I'm **Poorna Chandra Katta** 👋
 
 I'm a DevOps engineer with a passion for automating infrastructure, optimizing deployments, and building robust CI/CD pipelines. I specialize in containerization, orchestration, and infrastructure-as-code to help teams deliver faster and more reliably. My focus extends to security-first DevOps practices and comprehensive monitoring solutions.
 
-### Key Focus Areas:
-- 🐳 **Container Orchestration** - Kubernetes, Docker, RKE2
-- 🏗️ **Infrastructure-as-Code** - Terraform, Infrastructure Automation
-- 🔄 **CI/CD Automation** - GitHub Actions, Jenkins
-- ☁️ **Cloud Platforms** - AWS, Google Cloud Platform
-- 📊 **Monitoring & Observability** - Prometheus, Grafana, Cloud Monitoring, Cloud Logging, Sentry
-- 🔐 **Security & Compliance** - DevSecOps, Container Security, Code Quality, Vanta
-- 🌐 **Service Mesh** - ISTIO, Advanced Networking
-
 ---
 
 ## 🛠️ Technical Skills
@@ -83,32 +74,6 @@ I'm a DevOps engineer with a passion for automating infrastructure, optimizing d
 ### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
----
-
-## 📊 Comprehensive Skill Matrix
-
-| **Core Infrastructure** | **Containerization & Orchestration** | **CI/CD & Automation** | **Security & Compliance** |
-|---|---|---|---|
-| AWS | Docker | GitHub Actions | Grype |
-| Google Cloud | Kubernetes | Jenkins | Trivy |
-| Terraform | RKE2 | Git & GitHub | OWASP Dependency Check |
-| Linux | Rancher | ArgoCD (GitOps) | SonarQube |
-| Vercel | ISTIO | GitHub, GitLab | Vanta |
-
-| **Monitoring & Observability** | **Databases** | **Incident Management** | **Project Management** |
-|---|---|---|---|
-| Prometheus | Aurora MySQL | incident.io | Linear |
-| Grafana | Supabase | On-call Management | Jira |
-| Sentry | Neo4j | Alert Routing | Issue Tracking |
-| Cloud Monitoring | | Incident Response | Agile Workflows |
-| Cloud Logging | | | |
-
-| **Programming & Scripting** | **DevOps Tools** |
-|---|---|
-| Python | Linux Administration |
-| Bash | Infrastructure Automation |
-| YAML | Configuration Management |
 
 ---
 
