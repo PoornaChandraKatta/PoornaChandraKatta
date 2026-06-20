@@ -15,6 +15,8 @@
 
 ## 🎯 About Me
 
+Hi, I'm **Poorna Chandra Katta** 👋
+
 I'm a DevOps engineer with a passion for automating infrastructure, optimizing deployments, and building robust CI/CD pipelines. I specialize in containerization, orchestration, and infrastructure-as-code to help teams deliver faster and more reliably. My focus extends to security-first DevOps practices and comprehensive monitoring solutions.
 
 ### Key Focus Areas:
